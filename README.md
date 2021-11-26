@@ -1,6 +1,6 @@
-# C-exercises
+# C-exercises for intermediate level
 
-Repository contains basic c program exercises.
+Repository contains basic c programs in enhanced form.
 
 ### Pre-requisites
-Basic understanding of keywords, and c programming syntax.
+Basic understanding of c programming.
